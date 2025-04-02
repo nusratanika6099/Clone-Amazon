@@ -423,8 +423,3 @@ font-size: 0.85rem;
     margin-right: 20px;
 }
 
-@media only screen and (max-width:600px
-)
-{ 
-    body{ text-align: center;}
-}
